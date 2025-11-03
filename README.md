@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+</p>
+
 # 🎬 Active Directory Lab Series: Domain Controller & Client Setup (DHCP, DNS, AD)
 
 ## ✨ Introduction: Building Your Active Directory Foundation
